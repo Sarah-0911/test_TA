@@ -6,6 +6,8 @@
   border-radius: 10px;
   height: 150px;
   position: relative;
+  width: 450px;
+  margin-top: 1em;
 }
 
 .card-product img, .card-product .description {
@@ -17,8 +19,8 @@
 }
 
 .card-product img {
-  width: 8em;
-  height: 8em;
+  width: 130px;
+  height: 130px;
   object-fit: cover;
   border-radius: 5px;
 }
